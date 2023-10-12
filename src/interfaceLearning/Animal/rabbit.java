@@ -1,4 +1,6 @@
-package interfaceLearning;
+package interfaceLearning.Animal;
+
+import interfaceLearning.Animal.animal;
 
 public class rabbit extends animal {
 

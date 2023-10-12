@@ -1,4 +1,4 @@
-package interfaceLearning;
+package interfaceLearning.Animal;
 
 public class frog extends animal implements Swiming {
 

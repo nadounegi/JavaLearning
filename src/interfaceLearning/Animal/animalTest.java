@@ -1,4 +1,4 @@
-package interfaceLearning;
+package interfaceLearning.Animal;
 
 public class animalTest {
     public static void main(String[] args) {

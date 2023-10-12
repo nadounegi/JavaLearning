@@ -1,4 +1,4 @@
-package interfaceLearning;
+package interfaceLearning.Animal;
 
 public interface Swiming {
 
